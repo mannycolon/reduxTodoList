@@ -27,7 +27,9 @@ class Todo extends Component{
         <li>
           <span
             onClick={onClick}
-            style={{textDecoration: completed ? 'line-through' : 'none'}}>
+            style={{textDecoration: completed ? 'line-through' : 'none',
+                    cursor: 'pointer',
+                    color: completed ? 'green' : 'red'}}>
           {text}
           </span>
           <button onClick={onToggleEdit}>Edit</button>
