@@ -1,5 +1,5 @@
 # reduxTodoList
-redux implementation of a Todo List react  app 
+React Todo List app with the Redux architecture
 
 To run
 ---
