@@ -1,0 +1,22 @@
+{
+  "name": "redux-todo-list",
+  "version": "1.0.0",
+  "description": "redux implementation of a Todo List react app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannycolon/reduxTodoList.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "manny colon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannycolon/reduxTodoList/issues"
+  },
+  "homepage": "https://github.com/mannycolon/reduxTodoList#readme"
+}
